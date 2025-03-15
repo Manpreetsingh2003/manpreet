@@ -4,6 +4,8 @@ Student ID 041129348
 **Intro section with dropdown navigation**
 This challenge will test your ability to create dropdown navigation menus, a common pattern on larger sites.
 It will also provide some nice basic layout challenges.
+![Screenshot 2025-03-14 223303](https://github.com/user-attachments/assets/3dbb3463-3092-4d1a-8acb-e69acbeb0036)
+
 
 **Here are some challenges you may have faced while implementing the design:  **
 
